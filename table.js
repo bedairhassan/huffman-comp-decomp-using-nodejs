@@ -1,6 +1,6 @@
 let table = 
 [
-    { frequency: 3, letter: 'a', code: undefined },
+    { frequency: 3, letter: 'a', code: '010' },
     { frequency: 4, letter: 'd', code: '10' },
     { frequency: 6, letter: 's', code: '110' },
     { frequency: 7, letter: 'da', code: '1' },
